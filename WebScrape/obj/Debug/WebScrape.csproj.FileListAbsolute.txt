@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\bin\Debug\SeleniumTest.exe.config
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\bin\Debug\SeleniumTest.exe
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\bin\Debug\SeleniumTest.pdb
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\bin\Debug\WebDriver.dll
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\bin\Debug\WebDriver.xml
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\obj\Debug\WebScrape.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\obj\Debug\WebScrape.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\obj\Debug\SeleniumTest.exe
+C:\Users\ASUS\Desktop\WebScrape\WebScrape\obj\Debug\SeleniumTest.pdb
